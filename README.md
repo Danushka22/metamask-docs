@@ -1,4 +1,4 @@
-# MetaMask developer documentation
+ko# MetaMask developer documentation
 
 This is the MetaMask developer documentation repository.
 The documentation site is hosted at [`docs.metamask.io`](https://docs.metamask.io), and it's
